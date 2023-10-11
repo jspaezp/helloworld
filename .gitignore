@@ -1,0 +1,12 @@
+**/__pycache__
+
+tmp
+*.ipynb
+*.fasta
+*.json
+*.parquet
+*.lance/
+sageout/
+*.d/
+*.lance.parquet
+*.sqlite3
